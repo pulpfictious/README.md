@@ -6,10 +6,8 @@
 
 I am a passionate Software Developer with expertise in the AI and Fintech space. I have a deep interest in Web3 development, and I've built some amazing tools that have garnered attention.
 
-🌐 **Web3 Content Creator**: In addition to my development work, I'm also a web3 content creator and the author of a newsletter called ["Web3 Bits n Bytes"](https://web3bitsnbytes.substack.com/).  
-I enjoy sharing my knowledge and insights with others in the community. As an educator and seasoned engineer, I believe in the power of continuous learning and strive to contribute to the growth of the Web3 ecosystem.
 
-- 🔭 I’m currently working on building an automated test case generation tool for Solidity-based smart contracts.
+
 
 <!--
 **pulpfictious/pulpfictious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
